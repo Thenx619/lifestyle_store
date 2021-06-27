@@ -1,0 +1,58 @@
+.image{
+    min-height:614px;
+    background: url(intro-bg_1.jpg) no-repeat center;
+    background-size:cover;
+}
+.inner{
+    background-color:rgba(0,0,0,0.6) ;
+    color:white;
+    text-align: center;
+    padding-top:80px;
+    position:absolute;
+    top:25%;
+    min-height:300px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: larger;
+    font-weight: bold;
+}
+footer{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding: 10px;
+    font-family: sans-serif;
+    font-size: larger;
+}
+.login{
+    border:123px solid transparent;
+    font-family: sans-serif;
+}
+.signup{
+    border:65.5px solid transparent;
+    font-family: sans-serif;
+}
+.jumbo{
+    text-align: center;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.caption{
+    text-align: center;
+}
+.col-xs-2{
+    margin:45px;
+}
+.settings{
+    border:114.5px solid transparent;
+}
+.bada{
+    text-align: center;
+    font-size: xx-large;
+    font-family: sans-serif;
+    padding:89px;
+    box-sizing: border-box;
+}
+.success{
+    border:63.8px solid transparent;
+}
